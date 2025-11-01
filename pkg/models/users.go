@@ -1,5 +1,7 @@
 package models
 
+import "fmt"
+
 type User struct {
 	FirstName string
 	Role string
